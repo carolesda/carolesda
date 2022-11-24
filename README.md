@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @carolesda
+- 👀 I’m interested in NFT systems in digital health.
+- 🌱 I’m currently learning Clarity.
